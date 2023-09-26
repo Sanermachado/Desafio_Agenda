@@ -6,7 +6,6 @@ public class Contato {
         this.nome = nome;
         this.numeroTelefone = numeroTelefone;
     }
-
     public String getNome() {
         return nome;
     }
