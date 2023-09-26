@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
+    //teste
     private static Scanner scanner = new Scanner(System.in);
     private static AgendaTelefonica agenda = new AgendaTelefonica();
     public static void main(String[] args) {
